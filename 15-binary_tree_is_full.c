@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
  * binary_tree_is_full - function
- * @ tree: ptr
+ * @tree: ptr
  * Return: full, 0
  */
 int binary_tree_is_full(const binary_tree_t *tree)
